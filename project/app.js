@@ -6,3 +6,4 @@ function greet(name) {
 }
 
 console.log(greet("Git 사용자"));
+// 수정사항
